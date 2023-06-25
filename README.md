@@ -1,4 +1,4 @@
-# web-scraping
+# Analyzing Stop and Search Incidents in London
 Analyzing Stop and Search Incidents in London: Unveiling Insights into Law Enforcement Practices during January 2023
 The purpose of the project was to extract specific information from stop and search incidents carried out by the police force in London, England, during the month of January 2023 JSON document and gain insights into various aspects of these incidents.
 
